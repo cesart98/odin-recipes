@@ -13,12 +13,10 @@
     width: 500px;
 }
 
-.page-title,
-.ingredients,
-.steps {
-    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+* {
+    font-family: sans-serif;
 }
 
-.page-title {
+h1 {
     text-align: center;
 }
