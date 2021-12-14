@@ -19,4 +19,9 @@
 
 h1 {
     text-align: center;
+    background-color: #c2c2c2;
+}
+
+.image-caption {
+    font-size: 14px;
 }
